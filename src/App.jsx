@@ -75,8 +75,8 @@ function App() {
               image={projt}
               title="Em andamento"
               description="Sem código no momento"
-              projectLink="https://github.com/vanuzyr-web/portifolio"
-              codeLink="https://github.com/vanuzyr-web/portifolio"
+              projectLink="https://github.com/vanuzyr-web/portifolio2"
+              codeLink="https://github.com/vanuzyr-web/portifolio2"
             />
             {/* Adicione mais ProjectCard aqui conforme necessário */}
           </div>
@@ -118,7 +118,7 @@ function App() {
           <div className="contact-info">
             <p>📧 Vanuzyr@gmail.com</p>
             <p>
-              <a href="https://github.com/vanuzyr-web/portifolio" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/vanuzyr-web/portifolio2" target="_blank" rel="noopener noreferrer">
                 github.com/Vanuzyr
               </a>
             </p>
