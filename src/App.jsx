@@ -123,8 +123,8 @@ function App() {
               </a>
             </p>
             <p>
-              <a href="https://wa.me/558899161616" target="_blank" rel="noopener noreferrer">
-                WhatsApp: +55 89 9916-1616
+              <a href="https://wa.me/558999161616" target="_blank" rel="noopener noreferrer">
+                WhatsApp: 55 89 9916-1616
               </a>
             </p>
           </div>
